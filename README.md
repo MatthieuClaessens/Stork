@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="storklogo.png" alt="Stork Logo" width="180">
+  <img src="storklogo.png" alt="Stork Logo" width="420">
 </p>
-
-<h3 align="center">Stork</h3>
 
 <p align="center">
   <strong>The ultimate local SMTP catch-all tool for developers.</strong>
