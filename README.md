@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>The ultimate local SMTP catch-all tool for developers.</strong>
-</p>
+<strong>The ultimate tool to send custom emails with complete freedom.</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -16,8 +15,7 @@
 
 ## ⚡ About
 
-**Stork** is a high-performance local SMTP server and desktop application designed to intercept, inspect, and debug outgoing emails during development. Built with a robust Go backend and a slick React frontend, it gives you a seamless native dashboard to manage your mail traffic without ever hitting a real mail server.
-
+**Stork** is a high-performance application designed to easily send emails with custom parameters, custom senders, and flexible configurations. Built with a robust Go backend and a slick React frontend, it provides a seamless interface to dispatch your messages effortlessly.
 ## 🛠️ Tech Stack
 
 * **Backend:** Go (Golang) - Lightning-fast SMTP protocol handling and local server logic.
