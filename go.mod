@@ -1,1 +1,3 @@
-module Stork
+module stork
+
+go 1.26.1
