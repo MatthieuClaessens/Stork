@@ -31,5 +31,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stork.git
+   git clone https://github.com/MatthieuClaessens/stork.git
    cd stork
